@@ -1,0 +1,138 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_3_4
+-define:UNITY_5_3
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_STANDALONE_OSX
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_LOG_MIXED_STACKTRACE
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/P2T.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/DelaunayTriangle.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/AdvancingFront.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/AdvancingFrontNode.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweep.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepBasin.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepConstraint.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepContext.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepDebugContext.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepEdgeEvent.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/DTSweepPointComparator.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Delaunay/Sweep/PointOnEdgeException.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/ITriangulatable.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Orientation.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Polygon/Contour.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Polygon/Polygon.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Polygon/PolygonPoint.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Polygon/PolygonSet.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Polygon/PolygonUtil.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Sets/ConstrainedPointSet.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Sets/PointSet.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationAlgorithm.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationConstraint.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationContext.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationDebugContext.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationMode.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/TriangulationPoint.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Util/PointGenerator.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Util/PolygonGenerator.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Triangulation/Util/TriangulationUtil.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/FixedArray3.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/FixedBitArray3.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/MathUtil.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/Point2D.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/Point2DList.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/CDT/Utility/Rect2D.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicArcsAndColumns.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicCollidingSphere.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicCompoundObject.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicExplodingFloor.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicExplodingGoblin.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/LogicGlobalFracturing.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Sample Scene Data/Scripts/UltimateFracturingFPS.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/ConcaveColliderInterface.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/ExplosionSource.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/Fracture.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/FracturedChunk.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/FracturedObject.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/FracturingUtilDieTimer.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/MeshData.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/SpaceTree.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/Split.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/SupportPlane.cs'
+'Assets/Materials/Ultimate Game Tools/Fracturing/Scripts/Triangulate.cs'
+'Assets/Materials/Ultimate Game Tools/MeshCombiner/Scripts/CombinedMesh.cs'
+'Assets/Scripts/CameraController.cs'
+'Assets/Scripts/PlayerController.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
